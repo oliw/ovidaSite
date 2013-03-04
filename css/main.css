@@ -40,8 +40,14 @@
    margin-right: auto;
 }
 
+
+#contact .span4 {
+   text-align: center;
+}
+
 #contact img {
 	margin-bottom: 40px;
+
 }
 
 
