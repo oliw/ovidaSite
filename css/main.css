@@ -27,5 +27,16 @@
 }
 
 .featurette {
-	min-height: 70%;
+	min-height: 60%;
 }
+
+#companies {
+
+}
+
+.companyLogo {
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
