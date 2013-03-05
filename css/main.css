@@ -1,3 +1,7 @@
+#firstPage {
+	min-height: 100%;
+}
+
 .navbar-wrapper {
 	z-index: 10;
 	position: absolute;
