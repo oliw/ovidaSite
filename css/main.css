@@ -28,7 +28,8 @@
 }
 
 #bigImage .center-cropped {
-    background-position: center center no-repeat;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
 
 .featurette {
