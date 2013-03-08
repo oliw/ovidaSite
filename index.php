@@ -106,7 +106,7 @@
 		      <div class="span4">
 	            <img class="project-img" src="img/logo_amadeus.jpg"/>
 			      <h3>Airport Touch Kiosk</h3>
-			      <p>An easy to use touch-screen kiosk for baggage halls in airports that allows passengers to locate,track, and report missing baggage.</p>
+			      <p>An easy to use touch-screen kiosk for baggage halls in airports that allows passengers to locate, track, and report missing baggage.</p>
 		      </div>
 	      </div> 
 	</div>
@@ -266,15 +266,27 @@ work again with them as I consider them to be a great asset to any team.</p>
 	</div>
 	<div class="span4">
 	   <h3>Drop Us A Line</h3>
-			<form>
-					<input type="email" placeholder="Email.." style="width:75%"/>
-					<textarea rows="3" placeholder="Message" style="width:75%"  ></textarea>
-					<br/>
-					<button type="submit" class="btn">Send</button>
-			</form>
-			<div class="alert alert-success">
-					<b>Thanks!</b> We will be in touch very soon!
-			</div>
+         <?php
+         if (isset($_REQUEST['email'])) {
+             //send email
+             $email = $_REQUEST['email'] ;
+             $subject = "Ovida.co.uk: Someone dropped us a line";
+             $message = $_REQUEST['message'] ;
+             mail("hello@ovida.co.uk", $subject, $message, "From:" . $email);
+             echo "<div class='alert alert-success'>
+					      <b>Thanks!</b> We will be in touch very soon!
+           			</div>";
+             exit;
+         } else {
+            // email not filled out, display form
+            echo  "<form>
+      					<input name='email' type='email' placeholder='Email..' style='width:75%'/>
+	      				<textarea name='message' rows='3' placeholder='Message' style='width:75%'></textarea>
+	      				<br/>
+	      				<button type='submit' class='btn'>Send</button>
+         			</form>";
+         }
+         ?>
 	</div>
 	</div>
 	
@@ -311,6 +323,20 @@ work again with them as I consider them to be a great asset to any team.</p>
 	        window.location.hash = target;
 	    });
     });
-</script>
+    </script>
+    <!-- ANALYTICS -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-39134395-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
 </body>
 </html>
