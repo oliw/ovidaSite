@@ -8,6 +8,7 @@
 	top:0;
 	left: 0;
 	right: 0;	
+   opacity: 0.95;
 	//margin-top: 20px;
 }
 
@@ -47,6 +48,10 @@
 #myCarousel .quote {
 	padding-left: 70px;
 	padding-top: 30px;
+}
+
+.project-img {
+   height: 200px;
 }
 
 .companyLogo {
