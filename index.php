@@ -4,14 +4,11 @@
     <meta charset="utf-8">
     <title>Ovida</title>
     <link rel="shortcut icon" href="favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-        <!-- Le styles -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/bootstrap-responsive.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
+
+    <script type="text/javascript">
+         window.location = "http://www.ovida.co.uk";
+    </script>
+
     
 </head>
 <body>
@@ -323,5 +320,6 @@ work again with them as I consider them to be a great asset to any team.</p>
         })();
 
     </script>
+
 </body>
 </html>
