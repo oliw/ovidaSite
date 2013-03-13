@@ -152,21 +152,6 @@
          	  <div class="span6">
          	  <div class="quote">
 	          <blockquote>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                  <small>Edwin Ridwan, Independent Investment Advisor</small>
-               </blockquote>
-         	  </div>
-         	  </div>
-         	  <div class="span6 featurette-image hidden-phone">
-	         	    <img src="img/AKQA.jpg"/>
-         	  </div>
-         	  </div>
-        </div>   
-        <div class="item container">
-         	  <div class="row">
-         	  <div class="span6">
-         	  <div class="quote">
-	          <blockquote>
                   <p>[The software] has a direct impact on detecting and solving crime and is of great benefit to the county and potentially nationally and internationally.</p>
                   <small>Lincolnshire Echo, newspaper by Local World</small>
                </blockquote>
