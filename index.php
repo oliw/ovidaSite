@@ -170,7 +170,7 @@
                   <p>I had the opportunity to work with Oli and David on several projects both within and outside the University. They are very talented programmers, with strong technical skills and perhaps more importantly they are very pleasant to work
 with. They consistently came up with great new ideas and tackled all problems with enthusiasm and dedication. I would happily
 work again with them as I consider them to be a great asset to any team.</p>
-                  <small>Cristina Grigoru&#x0163;&#x0103;, Former teammate</small>
+                  <small>Cristina Grigoru&#x0163;&#x0103;, Former team member</small>
                </blockquote>
          	  </div>
          	  </div>
