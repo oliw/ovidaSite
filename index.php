@@ -130,38 +130,7 @@
 	         	    <img src="img/logo_lincolnnews.jpg"/>
          	  </div>
          	  </div>
-        </div>               
-        <div class="item container">
-         <div class="container">
-         	  <div class="row">
-         	  <div class="span6">
-         	  <div class="quote">
-               <blockquote>
-                  <p>Oli is a pleasure to work with. He grasped complex advanced topics quickly and would research areas by himself and come up with good solutions. He is also a thoroughly pleasant team member who everyone enjoyed working alongside. I couldn't recommend Oli strongly enough.</p> <small>Jon Barber, Technical Architect, AKQA</small>
-               </blockquote>
-         	  </div>
-         	  </div>
-         	  <div class="span6 featurette-image hidden-phone">
-	         	    <img src="img/akqa.jpg"/>
-         	  </div>
-         	  </div>
-          </div>
-        </div>          
-        <div class="item container">
-         	  <div class="row">
-         	  <div class="span6">
-         	  <div class="quote">
-	          <blockquote>
-                  <p>[The software] has a direct impact on detecting and solving crime and is of great benefit to the county and potentially nationally and internationally.</p>
-                  <small>Lincolnshire Echo, newspaper by Local World</small>
-               </blockquote>
-         	  </div>
-         	  </div>
-         	  <div class="span6 featurette-image hidden-phone">
-	         	    <img src="img/logo_lincolnnews.jpg"/>
-         	  </div>
-         	  </div>
-        </div> 
+        </div>
         <div class="item container">
          	  <div class="row">
          	  <div class="span6">
@@ -178,7 +147,38 @@ work again with them as I consider them to be a great asset to any team.</p>
 	         	    <img class="img-circle" src="img/cristina.jpg"/>
          	  </div>
          	  </div>
-        </div>         
+        </div>               
+        <div class="item container">
+         <div class="container">
+         	  <div class="row">
+         	  <div class="span6">
+         	  <div class="quote">
+               <blockquote>
+                  <p>Oli is a pleasure to work with. He grasped complex advanced topics quickly and would research areas by himself and come up with good solutions. He is also a thoroughly pleasant team member who everyone enjoyed working alongside. I couldn't recommend Oli strongly enough.</p> <small>Jon Barber, Technical Architect, AKQA</small>
+               </blockquote>
+         	  </div>
+         	  </div>
+         	  <div class="span6 featurette-image hidden-phone">
+	         	    <img src="img/akqa.jpg"/>
+         	  </div>
+         	  </div>
+          </div>
+        </div>
+        <div class="item container">
+         	  <div class="row">
+         	  <div class="span6">
+         	  <div class="quote">
+	          <blockquote>
+                  <p>...[David] was diligent and dedicated to completing his projects accurately and in a timely manner. His engagement and willingness to support various teams/departments made him a true team player. We can definitely recommend [David].</p>
+                  <small>Deutsche Bank</small>
+               </blockquote>
+         	  </div>
+         	  </div>
+         	  <div class="span6 featurette-image hidden-phone">
+	         	    <img src="img/logo_db.jpg"/>
+         	  </div>
+         	  </div>
+        </div>     
         <div class="item container">
          	  <div class="row">
          	  <div class="span6">
