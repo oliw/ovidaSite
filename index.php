@@ -218,11 +218,11 @@ work again with them as I consider them to be a great asset to any team.</p>
 		</tr>
 		<tr>
 			<td><i class="icon-briefcase"></i></td>
-			<td><a href="http://uk.linkedin.com/pub/oliver-wilkie/40/679/42/">LinkedIn</a></td>
+			<td><a href="http://uk.linkedin.com/pub/oliver-wilkie/40/679/42/" target="blank">LinkedIn</a></td>
 		</tr>
 		<tr>
 			<td></td>
-			<td><a href="https://twitter.com/oliwilks">@oliwilks</a></td>
+			<td><a href="https://twitter.com/oliwilks" target="blank">@oliwilks</a></td>
 		</tr>
 	</table>
 	</div>
@@ -241,11 +241,11 @@ work again with them as I consider them to be a great asset to any team.</p>
 
 		<tr>
 			<td><i class="icon-briefcase"></i></td>
-			<td><a href="http://uk.linkedin.com/in/haberdavid/en">LinkedIn</a></td>
+			<td><a href="http://uk.linkedin.com/in/haberdavid/en" target="blank">LinkedIn</a></td>
 		</tr>
 		<tr>
 			<td></td>
-			<td><a href="https://twitter.com/oliwilks">@davhab</a></td>
+			<td><a href="https://twitter.com/davhab" target="blank">@davhab</a></td>
 		</tr>
 	</table>
 	</div>
