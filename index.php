@@ -130,7 +130,7 @@
 	         	    <img src="img/logo_imperial.jpg"/>
          	  </div>
          	  </div>
-        </div>  
+        </div>
         <div class="item container">
          	  <div class="row">
          	  <div class="span6">
@@ -145,7 +145,7 @@
 	         	    <img src="img/logo_lincolnnews.jpg"/>
          	  </div>
          	  </div>
-        </div>               
+        </div>      
         <div class="item container">
          <div class="container">
          	  <div class="row">
@@ -167,18 +167,16 @@
          	  <div class="span6">
          	  <div class="quote">
 	          <blockquote>
-                  <p>I had the opportunity to work with Oli and David on several projects both within and outside the University. They are very talented programmers, with strong technical skills and perhaps more importantly they are very pleasant to work
-with. They consistently came up with great new ideas and tackled all problems with enthusiasm and dedication. I would happily
-work again with them as I consider them to be a great asset to any team.</p>
-                  <small>Cristina Grigoru&#x0163;&#x0103;, Former team member</small>
+                  <p>...[David] was diligent and dedicated to completing his projects accurately and in a timely manner. His engagement and willingness to support various teams/departments made him a true team player. We can definitely recommend [David].</p>
+                  <small>Deutsche Bank</small>
                </blockquote>
          	  </div>
          	  </div>
          	  <div class="span6 featurette-image hidden-phone">
-	         	    <img class="img-circle" src="img/cristina.jpg"/>
+	         	    <img src="img/logo_db.jpg"/>
          	  </div>
          	  </div>
-        </div>         
+        </div>     
         <div class="item container">
          	  <div class="row">
          	  <div class="span6">
@@ -193,7 +191,25 @@ work again with them as I consider them to be a great asset to any team.</p>
 	         	    <img src="img/amadeus.png"/>
          	  </div>
          	  </div>
-        </div>            
+        </div>  
+                <div class="item container">
+         <div class="container">
+         	  <div class="row">
+         	  <div class="span6">
+         	  <div class="quote">
+               <blockquote>
+                  <p>I had the opportunity to work with Oli and David on several projects both within and outside the University. They are very talented programmers, with strong technical skills and perhaps more importantly they are very pleasant to work
+with. They consistently came up with great new ideas and tackled all problems with enthusiasm and dedication. I would happily
+work again with them as I consider them to be a great asset to any team.</p><small>Cristina Grigoru&#x0163;&#x0103;, Former team member</small>
+               </blockquote>
+         	  </div>
+         	  </div>
+         	  <div class="span6 featurette-image hidden-phone">
+	         	    <img class="img-circle" src="img/cristina.jpg"/>
+         	  </div>
+         	  </div>
+          </div>
+        </div>             
       </div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
@@ -218,11 +234,11 @@ work again with them as I consider them to be a great asset to any team.</p>
 		</tr>
 		<tr>
 			<td><i class="icon-briefcase"></i></td>
-			<td><a href="http://uk.linkedin.com/pub/oliver-wilkie/40/679/42/">LinkedIn</a></td>
+			<td><a href="http://uk.linkedin.com/pub/oliver-wilkie/40/679/42/" target="blank">LinkedIn</a></td>
 		</tr>
 		<tr>
 			<td></td>
-			<td><a href="https://twitter.com/oliwilks">@oliwilks</a></td>
+			<td><a href="https://twitter.com/oliwilks" target="blank">@oliwilks</a></td>
 		</tr>
 	</table>
 	</div>
@@ -241,11 +257,11 @@ work again with them as I consider them to be a great asset to any team.</p>
 
 		<tr>
 			<td><i class="icon-briefcase"></i></td>
-			<td><a href="http://uk.linkedin.com/in/haberdavid/en">LinkedIn</a></td>
+			<td><a href="http://uk.linkedin.com/in/haberdavid/en" target="blank">LinkedIn</a></td>
 		</tr>
 		<tr>
 			<td></td>
-			<td><a href="https://twitter.com/oliwilks">@davhab</a></td>
+			<td><a href="https://twitter.com/davhab" target="blank">@davhab</a></td>
 		</tr>
 	</table>
 	</div>
