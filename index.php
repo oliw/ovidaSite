@@ -116,7 +116,22 @@
 	</div>
       <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
-        <div class="item active container">
+         <div class="item active container">
+         	  <div class="row">
+         	  <div class="span6">
+         	  <div class="quote">
+	          <blockquote>
+                  <p>David and Oli are not only top software engineers and programmers, they are also extremely reliable: if they say a job will be done, it will indeed.</p>
+                  <small>Dr Francesca Toni, DoC Imperial</small>
+               </blockquote>
+         	  </div>
+         	  </div>
+         	  <div class="span6 featurette-image hidden-phone">
+	         	    <img src="img/logo_imperial.jpg"/>
+         	  </div>
+         	  </div>
+        </div>  
+        <div class="item container">
          	  <div class="row">
          	  <div class="span6">
          	  <div class="quote">
@@ -147,21 +162,6 @@
          	  </div>
           </div>
         </div>          
-        <div class="item container">
-         	  <div class="row">
-         	  <div class="span6">
-         	  <div class="quote">
-	          <blockquote>
-                  <p>[The software] has a direct impact on detecting and solving crime and is of great benefit to the county and potentially nationally and internationally.</p>
-                  <small>Lincolnshire Echo, newspaper by Local World</small>
-               </blockquote>
-         	  </div>
-         	  </div>
-         	  <div class="span6 featurette-image hidden-phone">
-	         	    <img src="img/logo_lincolnnews.jpg"/>
-         	  </div>
-         	  </div>
-        </div> 
         <div class="item container">
          	  <div class="row">
          	  <div class="span6">
