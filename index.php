@@ -137,7 +137,7 @@
          	  <div class="quote">
 	          <blockquote>
                   <p>David and Oli are not only top software engineers and programmers, they are also extremely reliable: if they say a job will be done, it will indeed.</p>
-                  <small>Dr Francesca Toni, Department of Computing Imperial</small>
+                  <small>Dr Francesca Toni, Department of Computing, Imperial</small>
                </blockquote>
          	  </div>
          	  </div>
@@ -189,7 +189,7 @@ work again with them as I consider them to be a great asset to any team.</p><sma
          	  </div>
          	  </div>
          	  <div class="span6 featurette-image hidden-phone">
-	         	    <!--<img src="img/amadeus.png"/>-->
+	         	    <img class="img-circle" src="img/logo_singapore.jpg"/>
          	  </div>
          	  </div>
         </div>          
