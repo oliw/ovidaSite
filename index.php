@@ -116,22 +116,7 @@
 	</div>
       <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
-         <div class="item active container">
-         	  <div class="row">
-         	  <div class="span6">
-         	  <div class="quote">
-	          <blockquote>
-                  <p>David and Oli are not only top software engineers and programmers, they are also extremely reliable: if they say a job will be done, it will indeed.</p>
-                  <small>Dr Francesca Toni, DoC Imperial</small>
-               </blockquote>
-         	  </div>
-         	  </div>
-         	  <div class="span6 featurette-image hidden-phone">
-	         	    <img src="img/logo_imperial.jpg"/>
-         	  </div>
-         	  </div>
-        </div>
-        <div class="item container">
+        <div class="item active container">
          	  <div class="row">
          	  <div class="span6">
          	  <div class="quote">
@@ -145,7 +130,38 @@
 	         	    <img src="img/logo_lincolnnews.jpg"/>
          	  </div>
          	  </div>
-        </div>      
+        </div>  
+         <div class="item container">
+         	  <div class="row">
+         	  <div class="span6">
+         	  <div class="quote">
+	          <blockquote>
+                  <p>David and Oli are not only top software engineers and programmers, they are also extremely reliable: if they say a job will be done, it will indeed.</p>
+                  <small>Dr Francesca Toni, Department of Computing Imperial</small>
+               </blockquote>
+         	  </div>
+         	  </div>
+         	  <div class="span6 featurette-image hidden-phone">
+	         	    <img src="img/logo_imperial.jpg"/>
+         	  </div>
+         	  </div>
+        </div>   
+        <div class="item container">
+         	  <div class="row">
+         	  <div class="span6">
+         	  <div class="quote">
+               <blockquote>
+                  <p>I had the opportunity to work with Oli and David on several projects both within and outside the University. They are very talented programmers, with strong technical skills and perhaps more importantly they are very pleasant to work
+with. They consistently came up with great new ideas and tackled all problems with enthusiasm and dedication. I would happily
+work again with them as I consider them to be a great asset to any team.</p><small>Cristina Grigoru&#x0163;&#x0103;, Former team member</small>
+               </blockquote>
+         	  </div>
+         	  </div>
+         	  <div class="span6 featurette-image hidden-phone">
+	         	    <img class="img-circle" src="img/cristina.jpg"/>
+         	  </div>
+         	  </div>
+       </div>   
         <div class="item container">
          <div class="container">
          	  <div class="row">
@@ -161,22 +177,22 @@
          	  </div>
          	  </div>
           </div>
-        </div>          
+        </div>
         <div class="item container">
          	  <div class="row">
          	  <div class="span6">
          	  <div class="quote">
 	          <blockquote>
-                  <p>...[David] was diligent and dedicated to completing his projects accurately and in a timely manner. His engagement and willingness to support various teams/departments made him a true team player. We can definitely recommend [David].</p>
-                  <small>Deutsche Bank</small>
+                  <p>David developed an app for me during his short stay in Singapore. He's a very talented developer with lots of enthusiasm for learning new things, whether different development platforms or different cultures. I wish he had stayed in Asia but wish him well on his next exciting journey.</p>
+                  <small>Edwin Ridwan, Investment Advisor and Co-founder, Indonesia</small>
                </blockquote>
          	  </div>
          	  </div>
          	  <div class="span6 featurette-image hidden-phone">
-	         	    <img src="img/logo_db.jpg"/>
+	         	    <!--<img src="img/amadeus.png"/>-->
          	  </div>
          	  </div>
-        </div>     
+        </div>          
         <div class="item container">
          	  <div class="row">
          	  <div class="span6">
@@ -191,25 +207,22 @@
 	         	    <img src="img/amadeus.png"/>
          	  </div>
          	  </div>
-        </div>  
-                <div class="item container">
-         <div class="container">
+        </div>
+        <div class="item container">
          	  <div class="row">
          	  <div class="span6">
          	  <div class="quote">
-               <blockquote>
-                  <p>I had the opportunity to work with Oli and David on several projects both within and outside the University. They are very talented programmers, with strong technical skills and perhaps more importantly they are very pleasant to work
-with. They consistently came up with great new ideas and tackled all problems with enthusiasm and dedication. I would happily
-work again with them as I consider them to be a great asset to any team.</p><small>Cristina Grigoru&#x0163;&#x0103;, Former team member</small>
+	          <blockquote>
+                  <p>...[David] was diligent and dedicated to completing his projects accurately and in a timely manner. His engagement and willingness to support various teams/departments made him a true team player. We can definitely recommend [David].</p>
+                  <small>Deutsche Bank</small>
                </blockquote>
          	  </div>
          	  </div>
          	  <div class="span6 featurette-image hidden-phone">
-	         	    <img class="img-circle" src="img/cristina.jpg"/>
+	         	    <img src="img/logo_db.jpg"/>
          	  </div>
          	  </div>
-          </div>
-        </div>             
+        </div>           
       </div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
