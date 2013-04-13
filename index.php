@@ -101,7 +101,7 @@
 		      <div class="span4">
 			      <img class="project-img" src="img/logo_bubble.png"/>
 			      <h3>Bubble</h3>
-			      <p>Web application that utilises machine learning and data from social network to provide better assessments of products, businesses and services</p>
+			      <p>Web application that utilises machine learning and data from social network to provide better assessments of products, businesses and services.</p>
 		      </div>
 		      <div class="span4">
 	            <img class="project-img" src="img/logo_amadeus.jpg"/>
@@ -213,7 +213,7 @@ work again with them as I consider them to be a great asset to any team.</p><sma
          	  <div class="span6">
          	  <div class="quote">
 	          <blockquote>
-                  <p>...[David] was diligent and dedicated to completing his projects accurately and in a timely manner. His engagement and willingness to support various teams/departments made him a true team player. We can definitely recommend [David].</p>
+                  <p>[David] was diligent and dedicated to completing his projects accurately and in a timely manner. His engagement and willingness to support various teams/departments made him a true team player. We can definitely recommend [David].</p>
                   <small>Deutsche Bank</small>
                </blockquote>
          	  </div>
@@ -322,7 +322,7 @@ work again with them as I consider them to be a great asset to any team.</p><sma
     <script type="text/javascript">
       $(document).ready(function() {
          $('#myCarousel').carousel({
-            interval: 5000
+            interval: 7500
          })
       });
     </script>
